@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **atharvkadam498@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r6lX1Dt_NC1t-m5uxVF-TUVII14eUz5a/view?usp=sharing](https://drive.google.com/file/d/1r6lX1Dt_NC1t-m5uxVF-TUVII14eUz5a/view?usp=sharing)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1VWQIb17n61eV47sXJLd6N4Xye8HrTWoV/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
