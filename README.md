@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://atharvkadam11.github.io/portfolio/](https://atharvkadam11.github.io/atharv/)
+- 👨‍💻 All of my projects are available at [https://atharvkadam11.github.io/portfolio/](https://atharvkadam11.github.io/portfolio/)
 
 - 📫 How to reach me **atharvkadam498@gmail.com**
 
